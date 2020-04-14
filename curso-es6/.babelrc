@@ -1,0 +1,4 @@
+/* O preset-env vai fazer com que o Babel entenda em qual ambiente estamos trabalhando */
+{
+    "presets": ["@babel/preset-env"]
+}
